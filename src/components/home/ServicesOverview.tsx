@@ -362,12 +362,6 @@ const ServicesOverview = () => {
                   Kapat
                 </button>
                 
-                <Link
-                  href={fuelStationServices[modalServiceIndex].link}
-                  className="bg-blue-600 text-white py-2 px-4 rounded-md font-medium"
-                >
-                  Detaylara Git
-                </Link>
               </div>
             </div>
           </div>
