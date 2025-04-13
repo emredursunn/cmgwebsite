@@ -12,6 +12,14 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      animation: {
+        marquee: 'marquee var(--duration, 30s) linear infinite'
+      },
+      keyframes: {
+        marquee: {
+          to: { transform: 'translateX(-50%)' }
+        }
+      }
     },
   },
   plugins: [],

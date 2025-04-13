@@ -1,0 +1,497 @@
+{
+    "home": {
+      "hero": {
+        "headline": "İleriye Güç Veren Çözümler",
+        "subheadline": "Kalite ve güvenlik taahhüdümüzle, akaryakıt istasyonlarınız için profesyonel hizmet ve ürünler sunuyoruz.",
+        "cta": "Bize Ulaşın",
+        "stats": [
+          {
+            "value": "12",
+            "label": "Yıllık Deneyim"
+          },
+          {
+            "value": "22 +",
+            "label": "Başarılı Tesis"
+          },
+          {
+            "value": "192",
+            "label": "Tamamlanan Proje"
+          },
+          {
+            "value": "1200 +",
+            "label": "Memnun Müşteri"
+          }
+        ]
+      },
+      "services": [
+        {
+          "title": "Kurulum Hizmetleri",
+          "description": "Akaryakıt pompaları, tanklar ve sistemler için profesyonel kurulum hizmetleri.",
+          "link": "/services/installation"
+        },
+        {
+          "title": "Bakım Hizmetleri",
+          "description": "Akaryakıt istasyonlarının kesintisiz çalışması için kapsamlı bakım hizmetleri.",
+          "link": "/services/maintenance"
+        }
+      ],
+      "products": [
+        {
+          "name": "Akaryakıt Pompası",
+          "description": "Endüstriyel ve ticari kullanım için yüksek kaliteli akaryakıt pompaları.",
+          "image": "/images/fuel-pump.jpg",
+          "link": "/urunler/fuel-pump"
+        },
+        {
+          "name": "Akaryakıt Pompası",
+          "description": "Endüstriyel ve ticari kullanım için yüksek kaliteli akaryakıt pompaları.",
+          "image": "/images/fuel-pump.jpg",
+          "link": "/urunler/fuel-pump"
+        },
+        {
+          "name": "Akaryakıt Pompası",
+          "description": "Endüstriyel ve ticari kullanım için yüksek kaliteli akaryakıt pompaları.",
+          "image": "/images/fuel-pump.jpg",
+          "link": "/urunler/fuel-pump"
+        }
+      ]
+    },
+    "services": {
+      "installation": {
+        "title": "İstasyon Kurulumu",
+        "description": "Tüm akaryakıt istasyonu ekipmanları için profesyonel kurulum hizmetleri sunuyoruz.",
+        "details": "Kurulum hizmetlerimiz pompalar, tanklar ve istasyonunuzun tam kurulumunu içerir."
+      },
+      "maintenance": {
+        "title": "İstasyon Bakımı",
+        "description": "Bakım hizmetlerimizle akaryakıt istasyonunuzun sorunsuz çalışmasını sağlıyoruz.",
+        "details": "Düzenli bakım kontrolleri ve acil onarımlar ile istasyonunuzun operasyonel kalmasını sağlıyoruz."
+      },
+      "calibration": {
+        "title": "Pompa Kalibrasyon",
+        "description": "Hassas ölçüm ve yasal gerekliliklere uygunluk için profesyonel pompa kalibrasyon hizmetleri.",
+        "details": "Kalibrasyon hizmetlerimiz, pompalarınızın doğru ölçüm yapmasını ve yasal standartlara uymasını sağlar."
+      },
+      "equipment": {
+        "title": "Ekipman Tedariki",
+        "description": "Akaryakıt istasyonları için yüksek kaliteli ekipman ve yedek parça tedariki.",
+        "details": "En son teknoloji ürünleri ve yedek parçaları tedarik ederek istasyonunuzun güncel kalmasını sağlıyoruz."
+      },
+      "emergency": {
+        "title": "Acil Servis Desteği",
+        "description": "7/24 acil durum teknik destek ve onarım hizmetleri ile işletmenizin devamlılığını sağlayın.",
+        "details": "Acil durum ekibimiz 7/24 hizmet vererek, beklenmedik arızalarda hızlı çözüm sunmaktadır."
+      }
+    },
+    "productCategories": [
+      {
+        "id": "fuel-dispensers",
+        "name": "Akaryakıt Pompaları",
+        "description": "İstasyonunuz için yüksek kaliteli, dayanıklı akaryakıt pompaları",
+        "image": "/images/categories/fuel-dispensers.jpg"
+      },
+      {
+        "id": "storage-tanks",
+        "name": "Depolama Tankları",
+        "description": "Güvenli ve verimli akaryakıt depolama sistemleri",
+        "image": "/images/categories/storage-tanks.jpg"
+      },
+      {
+        "id": "automation-systems",
+        "name": "Otomasyon Sistemleri",
+        "description": "İstasyon yönetimi ve izleme sistemleri",
+        "image": "/images/categories/automation-systems.jpg"
+      },
+      {
+        "id": "spare-parts",
+        "name": "Yedek Parçalar",
+        "description": "Tüm ekipmanlar için orijinal yedek parçalar",
+        "image": "/images/categories/spare-parts.jpg"
+      },
+      {
+        "id": "safety-equipment",
+        "name": "Güvenlik Ekipmanları",
+        "description": "İstasyon güvenliğini sağlayan ekipmanlar",
+        "image": "/images/categories/safety-equipment.jpg"
+      }
+    ],
+    "products": {
+      "fuel-pump": {
+        "id": "fuel-pump-1",
+        "title": "Akaryakıt Pompası",
+        "description": "Ağır hizmet kullanımı için güvenilir ve verimli akaryakıt pompası.",
+        "features": [
+          "Çift taraflı 4 hortum yapısı",
+          "Yüksek akış hızı: 80 L/dk",
+          "Entegre ödeme sistemi",
+          "Dokunmatik LCD ekran"
+        ],
+        "price": "Contact for Price",
+        "category": "fuel-dispensers",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "ISO 9001",
+            "body": "Uluslararası Standardizasyon Organizasyonu",
+            "expiry": "2027",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "ATEX Sertifikası",
+            "body": "Avrupa Patlamaya Karşı Koruma Direktifi",
+            "expiry": "2025",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "fuel-pump-compact": {
+        "id": "fuel-pump-2",
+        "title": "Kompakt Akaryakıt Pompası",
+        "description": "Küçük istasyonlar için tasarlanmış, yer tasarrufu sağlayan akaryakıt pompası modeli.",
+        "features": [
+          "Tek taraflı 2 hortum yapısı",
+          "Kompakt tasarım",
+          "Ekonomik çözüm",
+          "Kolay bakım"
+        ],
+        "price": "Contact for Price",
+        "category": "fuel-dispensers",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "CE Sertifikası",
+            "body": "Avrupa Uygunluk Belgesi",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "TSE Belgesi",
+            "body": "Türk Standartları Enstitüsü",
+            "expiry": "2024",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "fuel-pump-high-flow": {
+        "id": "fuel-pump-3",
+        "title": "Yüksek Akışlı Pompa",
+        "description": "Ticari araçlar ve filo hizmetleri için yüksek akış kapasiteli pompa.",
+        "features": [
+          "120 L/dk akış hızı",
+          "Ağır hizmet tipi",
+          "Uzun ömürlü tasarım",
+          "Geniş hortum çapı"
+        ],
+        "price": "Contact for Price",
+        "category": "fuel-dispensers",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "ISO 14001",
+            "body": "Çevre Yönetim Sistemi",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "OHSAS 18001",
+            "body": "İş Sağlığı ve Güvenliği Yönetim Sistemi",
+            "expiry": "2025",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "underground-tank": {
+        "id": "tank-1",
+        "title": "Yeraltı Depolama Tankı",
+        "description": "Çift cidarlı, yüksek güvenlikli yeraltı akaryakıt depolama tankı.",
+        "features": [
+          "30.000 litre kapasite",
+          "Çift cidarlı çelik yapı",
+          "Sızıntı algılama sistemi",
+          "Korozyon koruması"
+        ],
+        "price": "Contact for Price",
+        "category": "storage-tanks",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "UL Sertifikası",
+            "body": "Underwriters Laboratories",
+            "expiry": "2028",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "API 650",
+            "body": "Amerikan Petrol Enstitüsü Standardı",
+            "expiry": "2027",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "above-ground-tank": {
+        "id": "tank-2",
+        "title": "Yerüstü Depolama Tankı",
+        "description": "Taşınabilir ve kurulumu kolay yerüstü akaryakıt tankı.",
+        "features": [
+          "5.000 - 15.000 litre kapasite seçenekleri",
+          "Çift cidarlı güvenli tasarım",
+          "Elektronik seviye göstergesi",
+          "Hızlı kurulum"
+        ],
+        "price": "Contact for Price",
+        "category": "storage-tanks",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "EN 12285-2",
+            "body": "Avrupa Standardı",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "ISO 9001",
+            "body": "Uluslararası Standardizasyon Organizasyonu",
+            "expiry": "2025",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "tank-level-gauge": {
+        "id": "automation-1",
+        "title": "Tank Seviye Ölçüm Sistemi",
+        "description": "Akaryakıt tanklarının seviye, sıcaklık ve hacim değerlerini ölçen ve raporlayan sistem.",
+        "features": [
+          "Uzaktan erişim ve izleme",
+          "Otomatik envanter yönetimi",
+          "Sızıntı algılama",
+          "Mobil uygulama desteği"
+        ],
+        "price": "Contact for Price",
+        "category": "automation-systems",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "ATEX Sertifikası",
+            "body": "Patlayıcı Ortamlar İçin Ekipman",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "IECEx",
+            "body": "Uluslararası Elektroteknik Komisyonu",
+            "expiry": "2025",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "pos-system": {
+        "id": "automation-2",
+        "title": "İstasyon Yönetim Sistemi",
+        "description": "Akaryakıt istasyonu satış, stok ve müşteri yönetimi için entegre yazılım çözümü.",
+        "features": [
+          "Pompa kontrolü",
+          "Satış ve stok takibi",
+          "Müşteri sadakat programı",
+          "Raporlama araçları"
+        ],
+        "price": "Contact for Price",
+        "category": "automation-systems",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "CE Sertifikası",
+            "body": "Avrupa Uygunluk Belgesi",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "ISO 27001",
+            "body": "Bilgi Güvenliği Yönetim Sistemi",
+            "expiry": "2025",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "nozzle": {
+        "id": "spare-1",
+        "title": "Otomatik Doldurma Tabancası",
+        "description": "Yüksek kaliteli, dayanıklı akaryakıt doldurma tabancası.",
+        "features": [
+          "Otomatik kapanma mekanizması",
+          "Düşük bakım gereksinimi",
+          "Uzun ömürlü conta sistemi",
+          "Çeşitli akış hızı seçenekleri"
+        ],
+        "price": "Contact for Price",
+        "category": "spare-parts",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "CE Sertifikası",
+            "body": "Avrupa Uygunluk Belgesi",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "TSE Belgesi",
+            "body": "Türk Standartları Enstitüsü",
+            "expiry": "2026",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "hose": {
+        "id": "spare-2",
+        "title": "Akaryakıt Hortumu",
+        "description": "Yüksek basınca dayanıklı, güvenli akaryakıt transfer hortumu.",
+        "features": [
+          "Farklı uzunluk seçenekleri",
+          "Statik elektrik koruması",
+          "UV ve ozon direnci",
+          "Çeşitli çap seçenekleri"
+        ],
+        "price": "Contact for Price",
+        "category": "spare-parts",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "EN 1360",
+            "body": "Avrupa Standardı",
+            "expiry": "2027",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "ISO 9001",
+            "body": "Uluslararası Standardizasyon Organizasyonu",
+            "expiry": "2026",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "fire-extinguisher": {
+        "id": "safety-1",
+        "title": "Yangın Söndürme Sistemi",
+        "description": "Akaryakıt istasyonları için özel tasarlanmış otomatik yangın söndürme sistemi.",
+        "features": [
+          "Otomatik algılama ve müdahale",
+          "Köpük ve kuru kimyasal seçenekleri",
+          "Kolay kurulum",
+          "Düzenli bakım hizmeti"
+        ],
+        "price": "Contact for Price",
+        "category": "safety-equipment",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "EN 54",
+            "body": "Yangın Algılama ve Alarm Sistemleri",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "TSEN 12845",
+            "body": "Otomatik Sprinkler Sistemleri",
+            "expiry": "2025",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      },
+      "emergency-stop": {
+        "id": "safety-2",
+        "title": "Acil Durdurma Sistemi",
+        "description": "İstasyonda acil durum anında tüm sistemleri güvenli şekilde durduran kontrol ünitesi.",
+        "features": [
+          "Hızlı müdahale",
+          "Kolay erişilebilir düğmeler",
+          "Uzaktan kontrol seçeneği",
+          "Sesli ve görsel alarm"
+        ],
+        "price": "Contact for Price",
+        "category": "safety-equipment",
+        "image": "/images/products/product-1.png",
+        "gallery": [
+          "/images/products/product-1.png",
+          "/images/products/product-2.png",
+          "/images/products/product-3.png"
+        ],
+        "certifications": [
+          {
+            "title": "IEC 60947",
+            "body": "Uluslararası Elektroteknik Komisyonu",
+            "expiry": "2026",
+            "image": "/images/products/certificate-1.png"
+          },
+          {
+            "title": "ISO 13850",
+            "body": "Acil Durdurma Sistemleri",
+            "expiry": "2027",
+            "image": "/images/products/certificate-2.png"
+          }
+        ]
+      }
+    },
+    "certifications": [
+      {
+        "title": "ISO 9001",
+        "description": "Kalite yönetim sistemi sertifikasyonu",
+        "body": "Uluslararası Standardizasyon Organizasyonu",
+        "expiry": "2027"
+      }
+    ],
+    "contact": {
+      "address": "Sanayi, İzmir",
+      "email": "info@canikligas.com",
+      "phone": "+90 532 123 45 67"
+    }
+  }
+  
