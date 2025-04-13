@@ -22,7 +22,7 @@ const ServicesOverview = () => {
     title: service.title,
     description: service.description,
     image: id === 'installation' ? '/images/gas-station.jpg' : 
-           id === 'maintenance' ? '/images/canikligasman.png' : '/images/fuel-pump.jpg',
+           id === 'maintenance' ? '/images/canikligasman.png' : '/images/products/product-1.png',
     icon: serviceIcons[id as keyof typeof serviceIcons] || <Wrench className="w-6 h-6 sm:w-8 sm:h-8 text-blue-500" />,
     link: `/services/${id}`
   }));

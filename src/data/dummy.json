@@ -88,31 +88,31 @@
         "id": "fuel-dispensers",
         "name": "Akaryakıt Pompaları",
         "description": "İstasyonunuz için yüksek kaliteli, dayanıklı akaryakıt pompaları",
-        "image": "/images/categories/fuel-dispensers.jpg"
+        "image": "/images/products/product-1.png"
       },
       {
         "id": "storage-tanks",
         "name": "Depolama Tankları",
         "description": "Güvenli ve verimli akaryakıt depolama sistemleri",
-        "image": "/images/categories/storage-tanks.jpg"
+        "image": "/images/products/product-1.png"
       },
       {
         "id": "automation-systems",
         "name": "Otomasyon Sistemleri",
         "description": "İstasyon yönetimi ve izleme sistemleri",
-        "image": "/images/categories/automation-systems.jpg"
+        "image": "/images/products/product-1.png"
       },
       {
         "id": "spare-parts",
         "name": "Yedek Parçalar",
         "description": "Tüm ekipmanlar için orijinal yedek parçalar",
-        "image": "/images/categories/spare-parts.jpg"
+        "image": "/images/products/product-1.png"
       },
       {
         "id": "safety-equipment",
         "name": "Güvenlik Ekipmanları",
         "description": "İstasyon güvenliğini sağlayan ekipmanlar",
-        "image": "/images/categories/safety-equipment.jpg"
+        "image": "/images/products/product-1.png"
       }
     ],
     "products": {
